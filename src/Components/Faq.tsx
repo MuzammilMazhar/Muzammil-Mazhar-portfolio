@@ -13,7 +13,7 @@ function FAQ(){
             <div className=" max-w-lg mx-auto ">
   <details className="bg-white open:bg-white dark:open:bg-white open:ring-1 open:ring-black/5 dark:open:ring-white/10 open:shadow-lg p-6 rounded-lg" open>
     <summary className="text-sm leading-6 text-slate-900 dark:text-white font-semibold select-none">
-    What expertise do you bring to our web development projects1?
+    What expertise do you bring to our web development project1?
     </summary>
     <div className="mt-3 text-sm leading-6 text-slate-600 dark:text-white">
       <p>I bring a blend of academic qualifications and practical experience, equipping me with expertise in various facets of web development, ensuring high-quality deliverables.</p>
