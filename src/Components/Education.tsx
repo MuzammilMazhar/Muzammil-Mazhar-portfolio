@@ -7,7 +7,7 @@ function Education(){
           
            
         <h1 className=" text-[35px] md:text-[50px] text-white font-bold text-center">
-            My <span className="text-green-500">Education</span></h1>
+            My <span className="text-green-500">Education </span></h1>
             <div className="mt-10 pb-10 p-10 gap-4 justify-between flex grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2">
             <div className=" p-5 ">
                <button className="text-green-300 border-2 p-2  border-green-300 ">2019 - 2021</button>
