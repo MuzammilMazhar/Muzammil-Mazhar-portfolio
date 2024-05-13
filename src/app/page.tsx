@@ -19,7 +19,7 @@ export default function Home() {
     <Services/>
     <Education/>
     <FAQ/>
-    <h1></h1>
+    <h1>hlo hiieiie</h1>
       </div>
    </div>
   );
