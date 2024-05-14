@@ -16,7 +16,7 @@ function FAQ(){
     What expertise do you bring to our web development project1?
     </summary>
     <div className="mt-3 text-sm leading-6 text-slate-600 dark:text-white">
-      <p>I bring a blend of academic qualifications and practical experience, equipping me with expertise in various facets of web development, ensuring high-quality deliverables.</p>
+      <p>I bring a blend of academic A  qualifications and practical experience, equipping me with expertise in various facets of web development, ensuring high-quality deliverables.</p>
     </div>
   </details>
 </div>
