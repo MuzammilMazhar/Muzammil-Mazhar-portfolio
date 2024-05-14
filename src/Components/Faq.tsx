@@ -26,7 +26,7 @@ function FAQ(){
     How do you ensure timely delivery of projects?
     </summary>
     <div className="mt-3 text-sm leading-6 text-slate-600 dark:text-white">
-      <p>Timely delivery is a priority for me. I meticulously plan projects, set realistic timelines, and maintain open communication throughout the process, ensuring projects are completed on schedule.</p>
+      <p>Timely delivery is a priority for me. I am meticulously plan projects, set realistic timelines, and maintain open communication throughout the process, ensuring projects are completed on schedule.</p>
     </div>
   </details>
 </div>
