@@ -16,12 +16,12 @@ const Hero = () =>{
       
       <div>
       <h1 className="text-[35px] md:text-[25px] lg:text-[50px] text-white font-bold">
-            HI, I'M <span className="text-yellow-400">Muzammil</span>
+            HI, I M <span className="text-yellow-400">Muzammil</span>
         </h1>
 
        <TextEffect/>
        <p className="mt-[2rem] text-white text-[20px] md:text-[15px] lg:text-[20px] sm:text[]">
-Welcome! Are you seeking a dynamic web solution? Our team crafts bespoke websites tailored to your needs. Let's collaborate and transform your vision into a stunning online presence. Ready to begin?</p>
+Welcome! Are you seeking a dynamic web solution? Our team crafts bespoke websites tailored to your needs. Let s collaborate and transform your vision into a stunning online presence. Ready to begin?</p>
        <div className="grid grid-cols-2 mt-[2rem] flex-col space-y-6  sm:space-y-0 sm:flex sm:flex-row items-center sm:spaxe-x-6">
       <button className="flex items-center space-x-2 px-[2rem] hover:bg-green-500 bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase">
         <p className="text-[12px] md:text-[15px] sm:text-[12px] lg-text-[20]">Download CV</p>
